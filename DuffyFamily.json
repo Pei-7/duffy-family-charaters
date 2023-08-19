@@ -1,0 +1,63 @@
+{
+    "DuffyFamily": {
+        "characters count": 7,
+        "characters": [
+            {
+                "Name": "DuffyBear",
+                "Species": "Teddy Bear",
+                "Characteristics": {
+                    "Personality": "Friendly and cuddly",
+                    "Favorite Activity": "Hugging"
+                }
+            },
+            {
+                "Name": "ShellieMay",
+                "Species": "Bear",
+                "Characteristics": {
+                    "Personality": "Sweet and gentle",
+                    "Favorite Activity": "Baking"
+                }
+            },
+            {
+                "Name": "Gelatoni",
+                "Species": "Cat",
+                "Characteristics": {
+                    "Personality": "Artistic and creative",
+                    "Favorite Activity": "Painting"
+                }
+            },
+            {
+                "Name": "StellaLou",
+                "Species": "Rabbit",
+                "Characteristics": {
+                    "Personality": "Dancer and dreamer",
+                    "Favorite Activity": "Ballet"
+                }
+            },
+            {
+                "Name": "CookieAnn",
+                "Species": "Dog",
+                "Characteristics": {
+                    "Personality": "Energetic and playful",
+                    "Favorite Activity": "Baking cookies"
+                }
+            },
+            {
+                "Name": "OluMel",
+                "Species": "Turtle",
+                "Characteristics": {
+                    "Personality": "Relaxed and friendly",
+                    "Favorite Activity": "Exploring the ocean"
+                }
+            },
+            {
+                "Name": "Linabel",
+                "Species": "Sheep",
+                "Characteristics": {
+                    "Personality": "Dreamy and imaginative",
+                    "Favorite Activity": "Stargazing"
+                }
+            }
+        ]
+    }
+}
