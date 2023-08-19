@@ -7,7 +7,7 @@
                 "species": "teddy bear",
                 "characteristics": {
                     "personality": "friendly and cuddly",
-                    "favorite activity": "hugging"
+                    "favoriteActivity": "hugging"
                 }
             },
             {
@@ -15,7 +15,7 @@
                 "species": "bear",
                 "characteristics": {
                     "personality": "sweet and gentle",
-                    "favorite activity": "baking"
+                    "favoriteActivity": "baking"
                 }
             },
             {
@@ -23,7 +23,7 @@
                 "species": "cat",
                 "characteristics": {
                     "personality": "artistic and creative",
-                    "favorite activity": "painting"
+                    "favoriteActivity": "painting"
                 }
             },
             {
@@ -31,19 +31,10 @@
                 "species": "rabbit",
                 "characteristics": {
                     "personality": "dancer and dreamer",
-                    "favorite activity": "ballet"
+                    "favoriteActivity": "ballet"
                 }
             },
             {
                 "name": "cookieann",
                 "species": "dog",
-                "characteristics": {
-                    "personality": "energetic and playful",
-                    "favorite activity": "baking cookies"
-                }
-            },
-            {
-                "name": "olumel",
-                "species": "turtle",
-                "characteristics": {
-                    "personality": "relaxed
+                "
