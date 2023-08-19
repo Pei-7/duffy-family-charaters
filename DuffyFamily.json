@@ -1,13 +1,13 @@
 {
     "duffyfamily": {
-        "characterscount": 7,
+        "charactersCount": 7,
         "characters": [
             {
                 "name": "duffybear",
                 "species": "teddy bear",
                 "characteristics": {
                     "personality": "friendly and cuddly",
-                    "favoriteactivity": "hugging"
+                    "favoriteActivity": "hugging"
                 }
             },
             {
@@ -15,7 +15,7 @@
                 "species": "bear",
                 "characteristics": {
                     "personality": "sweet and gentle",
-                    "favoriteactivity": "baking"
+                    "favoriteActivity": "baking"
                 }
             },
             {
@@ -23,7 +23,7 @@
                 "species": "cat",
                 "characteristics": {
                     "personality": "artistic and creative",
-                    "favoriteactivity": "painting"
+                    "favoriteActivity": "painting"
                 }
             },
             {
@@ -31,7 +31,7 @@
                 "species": "rabbit",
                 "characteristics": {
                     "personality": "dancer and dreamer",
-                    "favoriteactivity": "ballet"
+                    "favoriteActivity": "ballet"
                 }
             },
             {
@@ -39,7 +39,7 @@
                 "species": "dog",
                 "characteristics": {
                     "personality": "energetic and playful",
-                    "favoriteactivity": "baking cookies"
+                    "favoriteActivity": "baking cookies"
                 }
             },
             {
@@ -47,7 +47,7 @@
                 "species": "turtle",
                 "characteristics": {
                     "personality": "relaxed and friendly",
-                    "favoriteactivity": "exploring the ocean"
+                    "favoriteActivity": "exploring the ocean"
                 }
             },
             {
@@ -55,7 +55,7 @@
                 "species": "sheep",
                 "characteristics": {
                     "personality": "dreamy and imaginative",
-                    "favoriteactivity": "stargazing"
+                    "favoriteActivity": "stargazing"
                 }
             }
         ]
