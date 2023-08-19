@@ -1,63 +1,49 @@
 {
-    "DuffyFamily": {
+    "duffyfamily": {
         "charactersCount": 7,
         "characters": [
             {
-                "Name": "DuffyBear",
-                "Species": "Teddy Bear",
-                "Characteristics": {
-                    "Personality": "Friendly and cuddly",
-                    "Favorite Activity": "Hugging"
+                "name": "duffybear",
+                "species": "teddy bear",
+                "characteristics": {
+                    "personality": "friendly and cuddly",
+                    "favorite activity": "hugging"
                 }
             },
             {
-                "Name": "ShellieMay",
-                "Species": "Bear",
-                "Characteristics": {
-                    "Personality": "Sweet and gentle",
-                    "Favorite Activity": "Baking"
+                "name": "shelliemay",
+                "species": "bear",
+                "characteristics": {
+                    "personality": "sweet and gentle",
+                    "favorite activity": "baking"
                 }
             },
             {
-                "Name": "Gelatoni",
-                "Species": "Cat",
-                "Characteristics": {
-                    "Personality": "Artistic and creative",
-                    "Favorite Activity": "Painting"
+                "name": "gelatoni",
+                "species": "cat",
+                "characteristics": {
+                    "personality": "artistic and creative",
+                    "favorite activity": "painting"
                 }
             },
             {
-                "Name": "StellaLou",
-                "Species": "Rabbit",
-                "Characteristics": {
-                    "Personality": "Dancer and dreamer",
-                    "Favorite Activity": "Ballet"
+                "name": "stellalou",
+                "species": "rabbit",
+                "characteristics": {
+                    "personality": "dancer and dreamer",
+                    "favorite activity": "ballet"
                 }
             },
             {
-                "Name": "CookieAnn",
-                "Species": "Dog",
-                "Characteristics": {
-                    "Personality": "Energetic and playful",
-                    "Favorite Activity": "Baking cookies"
+                "name": "cookieann",
+                "species": "dog",
+                "characteristics": {
+                    "personality": "energetic and playful",
+                    "favorite activity": "baking cookies"
                 }
             },
             {
-                "Name": "OluMel",
-                "Species": "Turtle",
-                "Characteristics": {
-                    "Personality": "Relaxed and friendly",
-                    "Favorite Activity": "Exploring the ocean"
-                }
-            },
-            {
-                "Name": "Linabel",
-                "Species": "Sheep",
-                "Characteristics": {
-                    "Personality": "Dreamy and imaginative",
-                    "Favorite Activity": "Stargazing"
-                }
-            }
-        ]
-    }
-}
+                "name": "olumel",
+                "species": "turtle",
+                "characteristics": {
+                    "personality": "relaxed
