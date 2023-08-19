@@ -1,13 +1,13 @@
 {
     "duffyfamily": {
-        "charactersCount": 7,
+        "characterscount": 7,
         "characters": [
             {
                 "name": "duffybear",
                 "species": "teddy bear",
                 "characteristics": {
                     "personality": "friendly and cuddly",
-                    "favoriteActivity": "hugging"
+                    "favoriteactivity": "hugging"
                 }
             },
             {
@@ -15,26 +15,10 @@
                 "species": "bear",
                 "characteristics": {
                     "personality": "sweet and gentle",
-                    "favoriteActivity": "baking"
+                    "favoriteactivity": "baking"
                 }
             },
             {
                 "name": "gelatoni",
                 "species": "cat",
-                "characteristics": {
-                    "personality": "artistic and creative",
-                    "favoriteActivity": "painting"
-                }
-            },
-            {
-                "name": "stellalou",
-                "species": "rabbit",
-                "characteristics": {
-                    "personality": "dancer and dreamer",
-                    "favoriteActivity": "ballet"
-                }
-            },
-            {
-                "name": "cookieann",
-                "species": "dog",
                 "
