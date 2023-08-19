@@ -21,4 +21,43 @@
             {
                 "name": "gelatoni",
                 "species": "cat",
-                "
+                "characteristics": {
+                    "personality": "artistic and creative",
+                    "favoriteactivity": "painting"
+                }
+            },
+            {
+                "name": "stellalou",
+                "species": "rabbit",
+                "characteristics": {
+                    "personality": "dancer and dreamer",
+                    "favoriteactivity": "ballet"
+                }
+            },
+            {
+                "name": "cookieann",
+                "species": "dog",
+                "characteristics": {
+                    "personality": "energetic and playful",
+                    "favoriteactivity": "baking cookies"
+                }
+            },
+            {
+                "name": "olumel",
+                "species": "turtle",
+                "characteristics": {
+                    "personality": "relaxed and friendly",
+                    "favoriteactivity": "exploring the ocean"
+                }
+            },
+            {
+                "name": "linabel",
+                "species": "sheep",
+                "characteristics": {
+                    "personality": "dreamy and imaginative",
+                    "favoriteactivity": "stargazing"
+                }
+            }
+        ]
+    }
+}
